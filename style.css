@@ -792,8 +792,8 @@ width: 100%;
   width:100%;
 }
 .row2 img{
-	height: 150px;
-	width: 150px;
+	height: 120px;
+	width: 120px;
 }
 
 @keyframes movimiento{
@@ -801,7 +801,7 @@ width: 100%;
 transform: scale(1, 1);
 }
 50% {
-transform: scale(1.5, 1.5);
+transform: scale(1.4, 1.4);
 }
 100% {
 transform: scale(1, 1);
@@ -813,7 +813,7 @@ transform: scale(1, 1);
 transform: scale(1, 1);
 }
 50% {
-transform: scale(1.5, 1.5);
+transform: scale(1.4, 1.4);
 }
 100% {
 transform: scale(1, 1);
@@ -825,11 +825,35 @@ transform: scale(1, 1);
 transform: scale(1, 1);
 }
 50% {
-transform: scale(1.5, 1.5);
+transform: scale(1.4, 1.4);
 }
 100% {
 transform: scale(1, 1);
 }
+}
+
+#html{
+	animation: movimiento 4s linear infinite;
+}
+
+#css{
+	animation: movimiento2 4s linear infinite;
+}
+
+#php{
+	animation: movimiento3 4s linear infinite;
+}
+
+#js{
+	animation: movimiento 4s linear infinite;
+}
+
+#sql{
+	animation: movimiento3 4s linear infinite;
+}
+
+#bootstrap{
+	animation: movimiento2 4s linear infinite;
 }
 	
 	
