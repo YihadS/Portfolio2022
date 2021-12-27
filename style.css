@@ -740,7 +740,7 @@ html, body {
   overflow-x: hidden;
 }
 body {
-  position: relative
+  position: relative;
 }
 
 @keyframes animacion {
@@ -878,7 +878,7 @@ padding-top:30px;
 .seccion4 h1{
 	margin-left:5%;
 	margin-right:5%;
-	padding-top:3%;
+	padding-top:8%;
 }
 	
 }
