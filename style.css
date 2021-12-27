@@ -736,6 +736,13 @@ input[type=submit]:hover {
 /*--Diseño Responsivo--*/
 
 @media only screen and (max-width: 600px) {
+	
+html, body {
+  overflow-x: hidden;
+}
+body {
+  position: relative
+}
 
 @keyframes animacion {
 	0% {
@@ -860,5 +867,7 @@ transform: scale(1, 1);
 .row3{
   width:100%;
 }
+
+
 	
 }
