@@ -867,6 +867,10 @@ transform: scale(1, 1);
   width:100%;
 }
 
+#row3_2nd{
+padding-top:30px;
+}
+
 .encabezados{
 	padding-bottom: 10px;
 }
