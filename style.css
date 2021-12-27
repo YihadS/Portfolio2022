@@ -859,6 +859,9 @@ transform: scale(1, 1);
 .row3{
   width:100%;
 }
-	
+
+.row3 img{
+margin-top:15px;	
+}
 	
 }
