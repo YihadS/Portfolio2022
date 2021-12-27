@@ -788,4 +788,13 @@ width:200px;
 width: 100%;
 }
 
+.row2{
+  width:100;
+}
+.row2 img{
+	height: 150px;
+	width: 150px;
+}
+	
+	
 }
