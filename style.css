@@ -794,6 +794,7 @@ width: 100%;
 .row2 img{
 	height: 120px;
 	width: 120px;
+	margin-top:15px;
 }
 
 @keyframes movimiento{
@@ -858,10 +859,6 @@ transform: scale(1, 1);
 	
 .row3{
   width:100%;
-}
-
-.row3 img{
-margin-top:15px;	
 }
 	
 }
