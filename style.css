@@ -856,5 +856,9 @@ transform: scale(1, 1);
 	animation: movimiento2 4s linear infinite;
 }
 	
+.row3{
+  width:100%;
+}
+	
 	
 }
