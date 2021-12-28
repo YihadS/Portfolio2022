@@ -970,4 +970,8 @@ background: red;
 top: 30%;
 height: 30%;
 }
+
+.caja li {
+	animation: animacion 30s linear infinite;
+}
 }
