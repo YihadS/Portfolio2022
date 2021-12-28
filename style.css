@@ -956,6 +956,18 @@ margin-top:35%;
 	
 .seccion6{
 margin-top:35%;
-margin-bottom:25%;
+padding-bottom:25%;
+}
+	
+.carousel-control-next{
+background: red;
+top: 50%;
+height: 30%;
+}
+
+.carousel-control-prev{
+background: red;
+top: 50%;
+height: 30%;
 }
 }
