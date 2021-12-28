@@ -971,4 +971,17 @@ height: 30%;
 .carousel-caption h3{
 	font-size:16px;
 }
+
+	#btn_back{
+	display:none;
+	}
+	#btn_back2{
+	display:none;
+	}
+	#btn_back3{
+	display:none;
+	}
+	#btn_back4{
+	display:none;
+	}
 }
