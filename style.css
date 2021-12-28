@@ -622,13 +622,13 @@ transition: all 0.5s ease-in-out;
 }
 
 .carousel-control-prev{
-border:3px double rgba(255,255,255, 0.3);
+border:3px double rgba(255,0,0, 0.2);
 top: 40%;
 height: 15%;
 }
 
 .carousel-control-next{
-border:3px double rgba(255,255,255, 0.3);
+border:3px double rgba(255,0,0, 0.2);
 top: 40%;
 height: 15%;
 }
@@ -960,13 +960,13 @@ padding-bottom:25%;
 }
 	
 .carousel-control-next{
-border:3px double rgba(255,255,255, 0.3);
+border:3px double rgba(255,0,0, 0.2);
 top: 30%;
 height: 30%;
 }
 
 .carousel-control-prev{
-border:3px double rgba(255,255,255, 0.3);
+border:3px double rgba(255,0,0, 0.2);
 top: 30%;
 height: 30%;
 }
