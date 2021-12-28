@@ -487,6 +487,7 @@ z-index: 999;
 	position: sticky;
 	z-index: 999;
 	transition: all 0.5s ease-in-out;
+	padding:20px;
 }
 
 .marco h1{
@@ -494,7 +495,6 @@ position: sticky;
 z-index: 999;
 padding: 20px;
 transition: all 0.5s ease-in-out;
-border: 3px double white;
 }
 
 .seccion4 i{
@@ -616,13 +616,15 @@ transition: all 0.5s ease-in-out;
 }
 
 .carousel-control-prev{
-border:3px double rgba(255,0,0, 0.2);
+border:3px double white;
+background:rgba(255,0,0, 0.2);
 top: 40%;
 height: 15%;
 }
 
 .carousel-control-next{
-border:3px double rgba(255,0,0, 0.2);
+border:3px double white;
+background:rgba(255,0,0, 0.2);
 top: 40%;
 height: 15%;
 }
