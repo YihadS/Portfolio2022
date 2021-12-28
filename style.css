@@ -513,13 +513,13 @@ border: 3px double white;
 }
 
 .marco p{
-	display: none;
+	display: block;
 	padding-top: 15px;
 	transition: all 0.5s ease-in-out;
 }
 
 .marco a{
-display: none;
+display: block;
 transition: all 0.5s ease-in-out;
 }
 
@@ -529,7 +529,7 @@ transition: all 0.5s ease-in-out;
 }
 
 .marco img{
-	display: none;
+	display: block;
 	border: 5px double red;
 	border-radius: 50%;
 	height: 200px;
