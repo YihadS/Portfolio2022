@@ -753,7 +753,7 @@ body {
 	}
 	
 	100% {
-		transform: translateY(-2500px) rotate(360deg);
+		transform: translateY(-3000px) rotate(360deg);
 		opacity: 0;
 	}
 }
@@ -961,7 +961,7 @@ height: 30%;
 }
 
 .caja li {
-	animation: animacion 30s linear infinite;
+	animation: animacion 40s linear infinite;
 }
 	
 .carousel-caption p{
