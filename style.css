@@ -621,6 +621,13 @@ transition: all 0.5s ease-in-out;
  transition: all 0.5s ease-in-out;
 }
 
+.carousel-control-prev{
+background: red;
+}
+
+.carousel-control-next{
+background: red;
+}
 
 .carousel-caption{
 	background: rgba(0, 0, 0, 0.7); 
