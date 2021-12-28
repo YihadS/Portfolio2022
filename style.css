@@ -766,7 +766,7 @@ body {
 	}
 	
 	100% {
-		transform: translateY(-1700px) rotate(360deg);
+		transform: translateY(-2500px) rotate(360deg);
 		opacity: 0;
 	}
 }
