@@ -623,10 +623,14 @@ transition: all 0.5s ease-in-out;
 
 .carousel-control-prev{
 background: red;
+margin-top: -40%;
+margin-bottom: -40%;
 }
 
 .carousel-control-next{
 background: red;
+margin-top: -40%;
+margin-bottom: -40%;
 }
 
 .carousel-caption{
@@ -947,10 +951,11 @@ padding-top: 15px;
 }
 
 .seccion4{
-margin-top:20%;
+margin-top:35%;
 }
 	
 .seccion6{
-margin-top:25%;
+margin-top:35%;
+margin-bottom:25%;
 }
 }
