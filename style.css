@@ -481,18 +481,12 @@ z-index: 999;
 .marco{
 	text-align: center;
 	margin-top: -5%;
-	border: none;
+	border:3px double white;
 	margin-left: 8%;
 	margin-right: 8%;
 	position: sticky;
 	z-index: 999;
 	transition: all 0.5s ease-in-out;
-}
-
-.marco h1:hover{
-background: #FF0000;
-border: 3px double red;
-transition: all 0.5s ease-in-out;
 }
 
 .marco h1{
