@@ -623,14 +623,10 @@ transition: all 0.5s ease-in-out;
 
 .carousel-control-prev{
 background: red;
-margin-top: 40%;
-margin-bottom:40%;
 }
 
 .carousel-control-next{
 background: red;
-margin-top: 40%;
-margin-bottom: 40%;
 }
 
 .carousel-caption{
