@@ -739,9 +739,6 @@ input[type=submit]:hover {
 html, body {
   overflow-x: hidden;
 }
-body {
-  position: relative
-}
 
 @keyframes animacion {
 	0% {
