@@ -634,15 +634,6 @@ height: 15%;
 	width: 100%;
 	right: 0;
 	left: 0;
-  bottom: 0;
-	z-index: 999;
-}
-
-.carousel-caption{
-	background: rgba(0, 0, 0, 0.7); 
-	width: 100%;
-	right: 0;
-	left: 0;
         bottom: 0;
 	z-index: 999;
 	transition: all 0.5s ease-in-out;
@@ -957,19 +948,23 @@ padding-bottom:25%;
 	
 .carousel-control-next{
 border:3px double white;
-background:rgba(255,0,0, 0.5);
+background:rgba(255,0,0, 0.8);
 top: 30%;
 height: 30%;
 }
 
 .carousel-control-prev{
 border:3px double white;
-background:rgba(255,0,0, 0.5);
+background:rgba(255,0,0, 0.8);
 top: 30%;
 height: 30%;
 }
 
 .caja li {
 	animation: animacion 30s linear infinite;
+}
+	
+.carousel-caption p{
+	display:none;
 }
 }
