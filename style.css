@@ -760,7 +760,7 @@ body {
 }
 
 .fondo_animado {
-  height: 1100px;
+  height: 100%;
   z-index: 2;
 }
 
